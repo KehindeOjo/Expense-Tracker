@@ -17,8 +17,8 @@ This project analyzes personal financial data — tracking income, expenses, and
 - **Python**
 - **Pandas** – data manipulation
 - **Matplotlib** & **Seaborn** – data visualization
-- **Jupyter Notebook** or **VS Code**
-- _(Optional)_ Plotly/Streamlit for dashboard enhancement
+- **VS Code**
+
 
 ## Dataset
 
